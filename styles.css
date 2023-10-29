@@ -174,3 +174,7 @@ body {
   filter: brightness(0) saturate(100%) invert(1);
   margin-right: var(--small-padding);
 }
+
+.company-category {
+  text-transform: uppercase;
+}
