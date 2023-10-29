@@ -178,3 +178,7 @@ body {
 .company-category {
   text-transform: uppercase;
 }
+#special-div {
+  margin: auto;
+  color: var(--orange);
+}
